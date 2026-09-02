@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 Who I Am
+## Who I Am
 
 ```ts
 const aashish = {
@@ -37,7 +37,7 @@ const aashish = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### CodeintelligentAi
 
@@ -72,7 +72,7 @@ const aashish = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -98,7 +98,7 @@ const aashish = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -117,7 +117,7 @@ const aashish = {
 
 </div>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -127,7 +127,7 @@ const aashish = {
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
